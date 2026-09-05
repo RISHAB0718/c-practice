@@ -1,3 +1,4 @@
+//sum of array.
 #include<stdio.h>
 
 int sumN(int n);
